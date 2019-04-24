@@ -1,0 +1,1 @@
+c:\users\lab3\documents\visual studio 2013\Projects\carga de formulario\carga de formulario\bin\Debug\carga de formulario.exe.config
